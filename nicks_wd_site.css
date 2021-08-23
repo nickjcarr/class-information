@@ -8,7 +8,8 @@ body {
 
 h1 {
     text-align: center;
-    font-family: 'Klee One', cursive;
+    font-family: 'Pacifico', cursive;
+    color: white;
 }
 h1:hover {
     background-position: 0 100%;
@@ -23,9 +24,12 @@ h1:hover {
   }
   .linkedin {
       cursor: pointer;
+      padding-left: 50px;
+      padding-top: 20px;
   }
   .github {
       cursor: pointer;
+      padding-left: 50px;
   }
 
   .linkedin:hover {
